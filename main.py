@@ -3,7 +3,6 @@ app = FastAPI()
 
 
 
-
 # GET operation at route '/'
 @app.get('/')
 def root_api():
